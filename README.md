@@ -7,7 +7,7 @@
 - 📱 Exploring the world of **React Native Development** to venture into mobile app development.
 - 🌱 Always learning and growing in the ever-evolving tech landscape.
 - 📍 Location: Dhaka, Bangladesh
-- 📧 Email: abdullahalraiyan4@gmail.com
+- 📧 Email: nurun.nabi@outlook.com
 
 ### 🌟 What I'm Currently Working On:
 
